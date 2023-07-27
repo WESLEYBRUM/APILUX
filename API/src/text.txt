@@ -1,1 +1,11 @@
-testando
+lembrete
+
+git init = iniciar um novo repositorio o reinicializa um existente
+
+git status = verificar os status dos arquivos
+
+git checkout <name> = trocar de branch 
+
+git branch = verificar qual branch vc esta usando
+
+git commit =

@@ -20,7 +20,7 @@ router.get('/loadCliente', async (req, res) => {
       .then(buscasHotel => {
         if(buscasHotel){
         res.json(buscasHotel);
-          console.log(buscasHotel)
+          console.log(buscasHotel, "hoteis existentes")
         }else{
           res.json("buscas nao existe")
         }
